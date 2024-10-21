@@ -16,7 +16,7 @@ HOST,www.asusrouter.com,Lan
 HOST-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,Lan
 HOST-SUFFIX,0.in-addr.arpa,Lan
 HOST-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,Lan
-HOST-SUFFIX,10.in-addr.arpa,Lan
+# HOST-SUFFIX,10.in-addr.arpa,Lan
 HOST-SUFFIX,100.100.in-addr.arpa,Lan
 HOST-SUFFIX,100.51.198.in-addr.arpa,Lan
 HOST-SUFFIX,101.100.in-addr.arpa,Lan
@@ -131,7 +131,7 @@ HOST-SUFFIX,ts.net,Lan
 HOST-SUFFIX,wifi.cmcc,Lan
 HOST-SUFFIX,zte.home,Lan
 IP-CIDR,0.0.0.0/8,Lan
-#IP-CIDR,10.0.0.0/8,Lan
+# IP-CIDR,10.0.0.0/8,Lan
 IP-CIDR,100.64.0.0/10,Lan
 IP-CIDR,127.0.0.0/8,Lan
 IP-CIDR,169.254.0.0/16,Lan
